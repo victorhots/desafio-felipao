@@ -25,7 +25,3 @@ let xpAdquirida = 10001
     }else if(xpAdquirida >=10001){
         console.log("O Herói " + nomeDoHeroi + " alcançou o nivel Radiante")
     }
-    switch(xpAdquirida){
-        case "Radiante":
-        console.log("Nivel maximo")
-    }
